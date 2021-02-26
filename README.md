@@ -11,5 +11,7 @@
 4) run pretrained model & image -> list of category predictions + respective probability
 
 Result)
+
 **highest probability categories:**
+
 ('n02123159', **'tiger_cat'**, 0.45248342), ('n02123045', **'tabby'**, 0.18582779), ('n02124075', **'Egyptian_cat'**, 0.1619351)
